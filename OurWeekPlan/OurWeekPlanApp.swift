@@ -9,9 +9,19 @@ import SwiftUI
 
 @main
 struct OurWeekPlanApp: App {
+    
+    @StateObject var splashScreenManager = SplashScreenManager()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ZStack{
+                ContentView()
+                if splashScreenManager.state != .done {
+                SplashScreen()
+            }
+            }
+            .environmentObject(splashScreenManager)
+            
         }
     }
 }
