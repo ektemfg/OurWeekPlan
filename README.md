@@ -25,5 +25,5 @@ Disse poengene kan vi bruke i vårt eget Home Store <3
 30 poeng for massasje, 50 poeng for "din tur til å lage mat" og så videre.
 
 Screenshots:
-![image](https://user-images.githubusercontent.com/99316570/198356999-43f0c55e-30e9-4b4e-96d7-5f68a3b787c2.png)
-![image](https://user-images.githubusercontent.com/99316570/198357359-488b9ad3-d303-4428-91b4-d3145c94eea6.png)
+https://user-images.githubusercontent.com/99316570/198356999-43f0c55e-30e9-4b4e-96d7-5f68a3b787c2.png
+https://user-images.githubusercontent.com/99316570/198357359-488b9ad3-d303-4428-91b4-d3145c94eea6.png
